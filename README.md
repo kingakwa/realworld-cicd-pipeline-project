@@ -15,6 +15,7 @@
 - [Prometheus](https://prometheus.io/) Prometheus is a free software application used for event/metric monitoring and alerting for both application and infrastructure.
 - [Grafana](https://grafana.com/) Grafana is a multi-platform open source analytics and interactive visualization web application. It provides charts, graphs, and alerts for the web when connected to supported data sources.
 - [Splunk](https://www.splunk.com/) Splunk is an innovative technology which searches and indexes application/system log files and helps organizations derive insights from the data.
+- GENERAL NOTES ON DEVOPS (https://docs.google.com/document/d/12dK3vfAQ2EJ_qMeosBXETA9v1FiaHGNFfkH6FV3lc-k/edit?tab=t.0)
 
 # Jenkins Complete CI/CD Pipeline Environment Setup Runbook
 1) Create a GitHub Repository with the name `Jenkins-CICD-Project` and push the code in this branch(main) to 
